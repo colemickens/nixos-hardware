@@ -1,4 +1,5 @@
 NixOS profiles to optimize settings for different hardware.
+(colemickens fork)
 
 ## Setup
 
